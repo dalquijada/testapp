@@ -1,0 +1,9 @@
+.card,
+.btn,
+.form-control {
+    display: inline;
+}
+
+.dis-form {
+    display: inline;
+}
